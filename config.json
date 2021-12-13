@@ -1,0 +1,18 @@
+{
+    "tpa": {
+        "sendMessage": "§d{player}§f te ha enviado una solicitud de teletransporte. Para aceptarla, escribe §6/tpaccept",
+        "successSend": "Solicitud enviada a §9{player}",
+        "accepted": "§d{player}§f ha aceptado tu solicitud de teletransporte.",
+        "error": "Ha ocurrido un error.",
+        "description": "Envia una solicitud de teletransporte.",
+        "acceptDescription": "Acepta una solicitud de teletransporte."
+    },
+
+    "suicide": {
+        "nickname": true,
+        "loser": "§l§dCoward §e-§r {player}",
+        "nicknameIntervalSeconds": 300,
+        "broadcast": "${player} ha ido por la salida fácil.",
+        "description": "No querras saber lo que hace."
+    }
+}

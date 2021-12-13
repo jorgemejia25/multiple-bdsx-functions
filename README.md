@@ -1,6 +1,6 @@
 
 # multiple-tools Plugin
-## Multiple bdsx bedrock commands such as tpa or suicide.
+## Multiple bdsx bedrock commands such as tpa and suicide.
 ### All messages are configurable in _config.json_ file
 
 Commands:
